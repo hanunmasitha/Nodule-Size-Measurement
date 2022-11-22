@@ -1,0 +1,11 @@
+augmentation: true
+batch_size: 3
+early_stopping: 100
+epochs: 200
+lr: 1.0e-05
+momentum: 0.9
+name: NestedUNET
+nesterov: false
+num_workers: 2
+optimizer: Adam
+weight_decay: 0.0001
